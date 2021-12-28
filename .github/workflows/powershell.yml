@@ -1,0 +1,2 @@
+- name: PowerShell
+  uses: Tyler887/PS-Runner@latest
