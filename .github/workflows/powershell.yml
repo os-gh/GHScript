@@ -1,2 +1,5 @@
 - name: PowerShell
-  uses: Tyler887/PS-Runner@latest
+
+jobs:
+   windows:
+    - uses: Tyler887/PS-Runner@latest
